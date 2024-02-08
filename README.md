@@ -9,7 +9,7 @@ Streamlit IO.
 
 ## Demo
 
-Link to streamlit - https://adithyasam-ganj-spotify-recommendation-cap-streamlit-app-5ilkr1.streamlit.app/
+Link to streamlit (http://localhost:8501/)
 
 
 The newest version of the code does not include Djongo authentication for the streamlit app as it was removed so anyone could access it 
